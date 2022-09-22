@@ -9,3 +9,7 @@
 
 If you install docker-compose for personal use, there's a huge possibility it will rest into the oblivion of it-works-there-s-no-need-to-be-updated stuff.
 With this script you can automatically keep updated [docker-compose](https://github.com/docker/compose).
+
+## Usage
+My advice is to place the script under `/usr/local/sbin` and then `chmod +x`.
+> ⚠️ It's needed to be executed with root privileges.
